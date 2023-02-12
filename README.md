@@ -1,0 +1,2 @@
+# simpleTimeCalc
+Just little practice
